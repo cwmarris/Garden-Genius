@@ -1,0 +1,5 @@
+{
+  "name": "Garden Genius",
+  "description": "An AI-powered gardening assistant that identifies plants from photos and provides expert care instructions through an interactive chat.",
+  "requestFramePermissions": []
+}
